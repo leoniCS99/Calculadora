@@ -2,21 +2,21 @@
 
 
 ## Tecnologias
-
-* Java  8.0
-* Android Studio 3.1
-
+<pre>
+  Java  8.0
+  Android Studio 3.1
+</pre>
 
 ## Serviços Usados
-
-* Git
-* Github
+<pre>
+ Git
+ Github 
+</pre>
 
 
 ### Apresentação do Projeto Concluído
-
-<div>
-
+&nbsp;
+&nbsp;
 <img src="https://github.com/leoniCS99/Calculadora/blob/main/app/src/main/res/drawable/StyleProjeto.png" width="300">
 
 
@@ -25,6 +25,7 @@
   - Em caso de bugs sensíveis, como vulnerabilidades de segurança, entre em contato
     leonecezar99@gmail.com diretamente em vez de usar o rastreador de problemas. Nós valorizamos seu esforço
     para melhorar a segurança e privacidade deste projeto!
+  - Baixe o Aplicativo ✔️  
 
   ## Versioning
 
