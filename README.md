@@ -1,9 +1,7 @@
 # Calculadora
 
 
-## Technology 
-
-Tecnologias utilizadas neste projeto.
+## Tecnologias
 
 * Java  8.0
 * Android Studio 3.1
@@ -22,9 +20,9 @@ Tecnologias utilizadas neste projeto.
 
 ## Links
   - Repository: https://github.com/leoniCS99/Calculadora
-    - Em caso de bugs sensíveis, como vulnerabilidades de segurança, entre em contato
-      leonecezar99@gmail.com diretamente em vez de usar o rastreador de problemas. Nós valorizamos seu esforço
-      para melhorar a segurança e privacidade deste projeto!
+  - Em caso de bugs sensíveis, como vulnerabilidades de segurança, entre em contato
+    leonecezar99@gmail.com diretamente em vez de usar o rastreador de problemas. Nós valorizamos seu esforço
+    para melhorar a segurança e privacidade deste projeto!
 
   ## Versioning
 
