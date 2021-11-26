@@ -13,7 +13,9 @@
 * Github
 
 
-### * Apresentação do Projeto Concluido 
+### Apresentação do Projeto Concluído
+
+
 
 <img src="https://github.com/leoniCS99/Calculadora/blob/main/app/src/main/res/drawable/StyleProjeto.png" width="300">
 
