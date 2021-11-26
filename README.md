@@ -15,7 +15,7 @@ Tecnologias utilizadas neste projeto.
 * Github
 
 
-### 1 - Login no Aplicativo se tiver uma conta registrada.
+### 1 - Apresentação do Projeto Concluido!
 
 <img src="https://github.com/leoniCS99/Calculadora/blob/main/app/src/main/res/drawable/StyleProjeto.png" width="300">
 
