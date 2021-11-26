@@ -15,12 +15,12 @@
 
 ### Apresentação do Projeto Concluído
 
-
+<div>
 
 <img src="https://github.com/leoniCS99/Calculadora/blob/main/app/src/main/res/drawable/StyleProjeto.png" width="300">
 
 
-## Links
+## Links 
   - Repository: https://github.com/leoniCS99/Calculadora
   - Em caso de bugs sensíveis, como vulnerabilidades de segurança, entre em contato
     leonecezar99@gmail.com diretamente em vez de usar o rastreador de problemas. Nós valorizamos seu esforço
@@ -31,7 +31,7 @@
   1.0
 
 
-  ## Authors
+  ## Authors :zap:
 
   * **Leoni Cesar de Lima Slovak** 
 
