@@ -25,7 +25,7 @@
   - Em caso de bugs sensíveis, como vulnerabilidades de segurança, entre em contato
     leonecezar99@gmail.com diretamente em vez de usar o rastreador de problemas. Nós valorizamos seu esforço
     para melhorar a segurança e privacidade deste projeto!
-  - Baixe o Aplicativo https://www.mediafire.com/file/8mgfzdkbc8pm4u2/Calculadora.apk/file ✔️  
+  - Baixe o Aplicativo https://www.mediafire.com/file/ydiey7ou3mfms4u/Calculadora.apk/file ✔️  
 
   ## Versioning
 
