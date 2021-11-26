@@ -1,4 +1,4 @@
-# Calculadora
+# Calculadora :ballot_box_with_check:
 
 
 ## Tecnologias
