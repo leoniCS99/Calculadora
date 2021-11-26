@@ -17,7 +17,7 @@ Tecnologias utilizadas neste projeto.
 
 ### 1 - Login no Aplicativo se tiver uma conta registrada.
 
-<img src="https://github.com/leoniCS99/ProjetoFirebase/blob/main/app/src/main/res/drawable/Login.png" width="300">
+<img src="https://github.com/leoniCS99/Calculadora/blob/main/app/src/main/res/drawable/StyleProjeto.png" width="300">
 
 
 ## Links
