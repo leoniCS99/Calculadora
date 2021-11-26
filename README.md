@@ -21,7 +21,7 @@ Tecnologias utilizadas neste projeto.
 
 
 ## Links
-  - Repository: https://github.com/leoniCS99/ProjetoFirebase
+  - Repository: https://github.com/leoniCS99/Calculadora
     - Em caso de bugs sensíveis, como vulnerabilidades de segurança, entre em contato
       leonecezar99@gmail.com diretamente em vez de usar o rastreador de problemas. Nós valorizamos seu esforço
       para melhorar a segurança e privacidade deste projeto!
