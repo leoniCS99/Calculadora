@@ -4,7 +4,7 @@
 ## Tecnologias
 <pre>
   Java  8.0
-  Android Studio 3.1
+  Android Studio 3.2
 </pre>
 
 ## Serviços Usados
